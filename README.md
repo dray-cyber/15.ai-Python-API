@@ -1,5 +1,5 @@
 # 15API - 15.ai Python API
-
+# This is a fixed version of the main repo
 Unofficial Python3 API for https://fifteen.ai/
 
 ## Attention!
