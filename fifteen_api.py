@@ -28,7 +28,7 @@ class FifteenAPI:
         "user-agent": "python-requests 15.ai-Python-API(https://github.com/wafflecomposite/15.ai-Python-API)"
     }
 
-    tts_url = "https://api.15.ai/app/getAudioFile"
+    tts_url = "https://api.15.ai/app/getAudioFile5"
 
 
     def __init__(self, show_debug = False):
